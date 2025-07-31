@@ -1,0 +1,43 @@
+export const Cities = [
+    'Bangalore',
+    'Mysore',
+    'Hubli-Dharwad',
+    'Mumbai',
+    'Mangalore',
+    'Hyderabad',
+    'Trivandrum',
+    'Chennai',
+    'Delhi',
+    'Chandigarh',
+    'Jaipur',
+    'Pune',
+    'Cochin',
+    'Bhopal',
+    'Indore',
+    'Surat',
+    'Hassan',
+    'Ahmedabad',
+    'Gurgaon',
+    'Noida',
+    'Lucknow',
+    'Chikmagalur'
+]
+
+export const Brands = [
+    "Hyundai",
+    "Suzuki",
+    "Honda",
+    "BMW",
+    "Benz",
+    "Kia",
+    "Ford",
+    "Renault",
+    "Tata",
+    "Toyota",
+    "Volswagen",
+    "Nissan",
+    "MG",
+    "Audi",
+    "Datsun",
+    "Jeep"
+]
